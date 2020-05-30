@@ -1,0 +1,9 @@
+[submodule "g-golf"]
+	path = g-golf
+	url = https://git.savannah.gnu.org/git/g-golf.git
+[submodule "emacsy"]
+	path = emacsy
+	url = https://git.savannah.gnu.org/git/emacsy.git
+[submodule "shroud"]
+	path = shroud
+	url = git://dthompson.us/shroud.git
