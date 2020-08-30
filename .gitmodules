@@ -6,4 +6,4 @@
 	url = https://git.savannah.gnu.org/git/emacsy.git
 [submodule "shroud"]
 	path = shroud
-	url = git@github.com:mrosset/shroud.git
+	url = https://github.com/mrosset/shroud.git
