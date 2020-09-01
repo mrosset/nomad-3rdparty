@@ -4,7 +4,7 @@
 
 Nomad-3rdparty is a set of scripts to build and install dependencies for Nomad under Linux. This is partly due to g-golf not being included in Ubuntu apt packages. The entire Nomad project is under the GNU General Public License, version 3 or later.
 
-##System Requirements
+## System Requirements
 
 See the other [Readme](https://github.com/mrosset/nomad/tree/master/org) for ggeneral Nomad build instructions. Make sure when checking out this repository to use the --recursive flag to retrieve the submodules. Nomad is intended to work with Guile 2.
 
