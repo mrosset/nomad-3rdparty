@@ -31,3 +31,7 @@ Now do
 4. `make install`
 
 If successful it should write the ggolf, emacsy, and shroud binaries to ~/local (ex: /home/user/local/lib/libemacsy.so.0). You can now switch to the nomad source dir and compile.
+
+## Uninstalling
+
+Run `make uninstall` from the nomad-3rdparty build dir.
