@@ -1,6 +1,6 @@
 # nomad-3rdparty - Set up Dependencies for Building Nomad
 
-[Homepage](https://github.com/mrosset/nomad)
+[Homepage](http://git.savannah.nongnu.org/cgit/nomad.git/tree/?h=devel)
 
 Nomad-3rdparty is a set of scripts to build and install dependencies for Nomad under Linux. This is partly due to g-golf not being included in Ubuntu apt packages. The entire Nomad project is under the GNU General Public License, version 3 or later.
 
