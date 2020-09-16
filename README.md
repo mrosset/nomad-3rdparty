@@ -26,7 +26,7 @@ export PATH="$HOME/local/bin:$PATH"
 ```
 Now do
 1. `./autogen.sh`
-2. `./configure --prefix=~/local`
+2. `./configure --prefix=$HOME/local`
 3. `make`
 4. `make install`
 
